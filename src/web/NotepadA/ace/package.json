@@ -1,20 +1,20 @@
 {
-    "name": "ace-builds",
-    "main": "./src-noconflict/ace.js",
-    "typings": "ace.d.ts",
-    "version": "1.3.3",
-    "description": "Ace (Ajax.org Cloud9 Editor)",
+    "name": "arozos",
+    "version": "1.0.0",
+    "description": "",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ajaxorg/ace-builds.git"
+        "url": "git+https://github.com/Arsenaloro/arozos.git"
     },
     "author": "",
-    "license": "BSD",
+    "license": "ISC",
     "bugs": {
-        "url": "https://github.com/ajaxorg/ace-builds/issues"
+        "url": "https://github.com/Arsenaloro/arozos/issues"
     },
-    "homepage": "https://github.com/ajaxorg/ace-builds"
+    "homepage": "https://github.com/Arsenaloro/arozos#readme"
 }
