@@ -1,8 +1,12 @@
-"name": "arozos",
-4    "version": "1.0.0",
-5    "description": "",
-6    "scripts": {
-7        "build": "echo \"No build specified\" && exit 1",
+{
+    "name": "arozos",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1"
+    }
+}
+
 8        "test": "echo \"No test specified\" && exit 1",
 9        "start": "node index.js"
 10    },
@@ -18,3 +22,11 @@
 20    "homepage": "https://github.com/Arsenaloro/arozos#readme"
 21}
 22 
+{
+    "name": "arozos",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1"
+    }
+}
